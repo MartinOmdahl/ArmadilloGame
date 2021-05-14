@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game where you fight an armadillo",
+"dataUrl": "Armadillo Web 1.0.data.unityweb",
+"wasmCodeUrl": "Armadillo Web 1.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "Armadillo Web 1.0.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292221",
+"cacheControl": {"default": "must-revalidate"}
+}
